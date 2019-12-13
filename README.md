@@ -32,7 +32,7 @@ Collections about Digital Twin research and applications
     	- For novel ships, this paper proposed a method that uses strain gauge data coupled with a global finite element model and a fatigue damage assessment model to provide information pertinent to maintenance and life cycle decisions
     	- 针对海军舰艇，使用应变仪数据与全局有限元模型和疲劳损伤评估模型相结合，以提供维护和生命周期决策相关的信息
 
-## [2.Research Areas and Papers (研究领域与相关论文)]
+## 2.Research Areas and Papers (研究领域与相关论文)
 
 ### Manufacturing
 - Data-driven Digital Twin approach for process optimization: an industry use case, BigData2018
@@ -51,6 +51,10 @@ Collections about Digital Twin research and applications
 
 讨论了DT在航空IVHM中的作用
 
+- [数字孪生技术综述与展望](http://www.cqvip.com/qk/94550x/201811/6100113556.html), 仪器仪表学报, 2018
+刘大同教授在本篇论文中，以故障预测和健康管理（PHM）为视角，阐述了数字孪生的定义/技术体系/关键技术。六项关键技术包括：多领域多尺度融合建模/数据驱动与物理模型融合的状态评估/数据采集和传输/全寿命周期数据管理/VR呈现/高性能计算。为故障诊断领域研究者进行数字孪生方向探索理清了思路。
+
+
 - [Application of Digital Twin Concept in Condition Monitoring for DC-DC Converters](https://ieeexplore.ieee.org/abstract/document/8912199), 2019 IEEE Energy Conversion Congress and Exposition (ECCE)
 
 DT在DC-DC转换电路中的应用，在软件中创建了实际电路的等效电路（具体软件未知），并对模型进行了实验验证，使用粒子群算法进行模型求解
@@ -61,7 +65,7 @@ DT在DC-DC转换电路中的应用，在软件中创建了实际电路的等效�
 - Simulation-based Verification with Experimentable Digital Twins in Virtual Testbeds, 2018, 
 
 
-## [3.Theory and Survey (理论与综述)]
+## 3.Theory and Survey (理论与综述)
 - Digital Twin in Industry: State-of-the-Art, 2016
 
 
@@ -75,17 +79,16 @@ DT在DC-DC转换电路中的应用，在软件中创建了实际电路的等效�
 
 ### - [陶飞](http://shi.buaa.edu.cn/taofei/zh_CN/index.htm)，北京航空航天大学自动化科学与电气工程学院教授
 
-	国内数字孪生研究领军人物。提出了数字孪生五维模型，其团队在数字孪生方面的研究对推动国内数字孪生研究具有重要很高价值。代表文章：
-
-	- Make more digital twins, Nature, 2019
-	- 数字孪生车间信息物理融合理论与技术, 计算机集成制造系统，201708
-	- 数字孪生车间———一种未来车间运行新模式, 计算机集成制造系统, 201701
+国内数字孪生研究领军人物。提出了数字孪生五维模型，其团队在数字孪生方面的研究对推动国内数字孪生研究具有重要很高价值。代表文章：
+- Make more digital twins, Nature, 2019
+- 数字孪生车间信息物理融合理论与技术, 计算机集成制造系统，201708
+- 数字孪生车间———一种未来车间运行新模式, 计算机集成制造系统, 201701
 
 ###	- [刘强](http://jdgcxy.gdut.edu.cn/info/1221/1224.htm), 广东工业大学教授。在数字孪生车间方面进行了一系列开拓性研究。代表文章：
 
-	- Digital twin-driven manufacturing cyber-physical system for parallel controlling of smart workshop, 201903
-	- Digital twin-driven rapid individualized designing of automated flow-shop manufacturing system, 201805
-	- A Digital Twin-Based Approach for Designing and Multi-Objective Optimization of Hollow Glass Production Line, IEEE Access, 201710
+- Digital twin-driven manufacturing cyber-physical system for parallel controlling of smart workshop, 201903
+- Digital twin-driven rapid individualized designing of automated flow-shop manufacturing system, 201805
+- A Digital Twin-Based Approach for Designing and Multi-Objective Optimization of Hollow Glass Production Line, IEEE Access, 201710
 
 ## 7.Thesis (硕博士论文)
 
