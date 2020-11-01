@@ -39,6 +39,13 @@ Collections about Digital Twin research and applications
 - Dynamic Resource Allocation Optimization for Digital Twin-driven Smart Shopfloor, ICNSC2018
 
 ### Health Management and Fault Diagnosis
+
+Data Super-Network Fault Prediction Model and Maintenance Strategy for Mechanical Product Based on Digital Twin
+
+- [Digital Twin for Machining Tool Condition Prediction](https://www.sciencedirect.com/science/article/pii/S2212827119306638), 2019, CIRP Conference on Manufacturing Systems
+	- Firstly, compose a digital twin model of tool system.
+	- 
+
 - [Digital twin driven prognostics and health management for complex equipment](https://www.sciencedirect.com/science/article/pii/S0007850618300799), 2018, CIRP Annals
 
 陶飞教授在该文中提出了一种将DT用于复杂设备故障诊断的新思路。首先构建风机齿轮箱的虚拟（仿真）模型，并通过实验验证确保模型的可用性。通过数字孪生体（仿真模型）实时仿真出齿轮箱啮合处的形变和应力数据，将这些数据与传感器实际采集的振动数据一起，用于后续的机器学习分析，进行设备故障诊断。
@@ -52,6 +59,7 @@ Collections about Digital Twin research and applications
 讨论了DT在航空IVHM中的作用
 
 - [数字孪生技术综述与展望](http://www.cqvip.com/qk/94550x/201811/6100113556.html), 仪器仪表学报, 2018
+
 刘大同教授在本篇论文中，以故障预测和健康管理（PHM）为视角，阐述了数字孪生的定义/技术体系/关键技术。六项关键技术包括：多领域多尺度融合建模/数据驱动与物理模型融合的状态评估/数据采集和传输/全寿命周期数据管理/VR呈现/高性能计算。为故障诊断领域研究者进行数字孪生方向探索理清了思路。
 
 
@@ -74,6 +82,7 @@ DT在DC-DC转换电路中的应用，在软件中创建了实际电路的等效�
 
 - 201910 数字孪生城市研究报告（2019年），中国信息通信研究院 (http://www.caict.ac.cn/kxyj/qwfb/bps/201910/t20191011_219155.htm)
 
+- 2019 数字孪生体技术白皮书，安世亚太科技股份公司数字孪生体实验室 (http://www.peraglobal.com/content/details_155_20653.html)
 
 ## 6.Scholars (著名学者)
 
