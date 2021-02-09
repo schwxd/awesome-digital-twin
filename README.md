@@ -39,6 +39,9 @@ Collections about Digital Twin research and applications
 - Dynamic Resource Allocation Optimization for Digital Twin-driven Smart Shopfloor, ICNSC2018
 
 ### Health Management and Fault Diagnosis
+- [Transfer Learning as an Enabler of the Intelligent Digital Twin](https://arxiv.org/abs/2012.01913)
+	- 使用迁移学习作为数字孪生模型和数据驱动模型的桥梁，从数据驱动模型（深度学习）中学习故障诊断和异常检测知识，将其迁移到数字孪生模型中。不直接迁移到物理对象的行为中，而是先在数字孪生仿真模型中进行验证，以避免安全风险。
+	- 其定义的数字孪生模型包括<i>asset’s digital models, e.g. CAD, ECAD, simulation models, software models and many more</i>，将具备人工智能能力的数字孪生模型定义为智能数字孪生（intelligent digital twin），认为这是数字孪生的一个扩展。这样的界定非常清楚。
 
 Data Super-Network Fault Prediction Model and Maintenance Strategy for Mechanical Product Based on Digital Twin
 
